@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Nom2" type="id">Nom2</item>
+    <item name="Date2" type="id">Date2</item>
+    <item name="Email2" type="id">Email2</item>
+    <item name="Classe2" type="id">Classe2</item>
+    <item name="button2" type="id">button2</item>
+</resources>
